@@ -190,7 +190,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **Issues** - Report bugs and feature requests
 - **Discussions** - Ask questions and share ideas
-- **Wiki** - Detailed documentation and guides
+
 
 ---
 
