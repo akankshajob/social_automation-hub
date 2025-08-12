@@ -185,13 +185,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **n8n** - For powerful workflow automation
 - **React Community** - For excellent documentation and tools
 - **Express.js** - For the robust backend framework
-
-## 📞 Support
-
-- **Issues** - Report bugs and feature requests
-- **Discussions** - Ask questions and share ideas
-
-
 ---
 
 **Built with ❤️ for the social media automation community**
