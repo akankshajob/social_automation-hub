@@ -187,4 +187,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Express.js** - For the robust backend framework
 ---
 
-**Built with ❤️ for the social media automation community**
+**Built with ❤️**
