@@ -22,6 +22,11 @@ A powerful full-stack social media scheduling and automation platform built with
 - **Date/Time Picker** - Intuitive scheduling interface
 - **Cron-based Automation** - Reliable scheduled execution
 
+### Pictures
+<p align="center">
+  <img src="public/home.png" alt="Home" width="600"><br><br>
+  <img src="public/create.png" alt="Home" width="600"><br><br>
+
 ### 🔧 **n8n Integration**
 - **Workflow Automation** - Connect to n8n for advanced automation
 - **Webhook Support** - Real-time post triggering
@@ -185,6 +190,13 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **n8n** - For powerful workflow automation
 - **React Community** - For excellent documentation and tools
 - **Express.js** - For the robust backend framework
+
+## 📞 Support
+
+- **Issues** - Report bugs and feature requests
+- **Discussions** - Ask questions and share ideas
+- **Wiki** - Detailed documentation and guides
+
 ---
 
-**Built with ❤️**
+**Built with ❤️ for the social media automation community**
