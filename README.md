@@ -26,6 +26,7 @@ A powerful full-stack social media scheduling and automation platform built with
 <p align="center">
   <img src="public/home.png" alt="Home" width="600"><br><br>
   <img src="public/create.png" alt="Home" width="600"><br><br>
+</p>
 
 ### 🔧 **n8n Integration**
 - **Workflow Automation** - Connect to n8n for advanced automation
@@ -91,11 +92,6 @@ A powerful full-stack social media scheduling and automation platform built with
    ```bash
    npm run dev
    ```
-
-5. **Access the application**
-   - Frontend: http://localhost:3000
-   - Backend API: http://localhost:5000
-   - Health Check: http://localhost:5000/api/health
 
 ## 📖 Usage
 
