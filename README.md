@@ -24,8 +24,8 @@ A powerful full-stack social media scheduling and automation platform built with
 
 ### Pictures
 <p align="center">
-  <img src="public/home.png" alt="Home" width="600"><br><br>
-  <img src="public/create.png" alt="Home" width="600"><br><br>
+  <img src="home.png" alt="Home" width="600"><br><br>
+  <img src="create.png" alt="Home" width="600"><br><br>
 </p>
 
 ### 🔧 **n8n Integration**
